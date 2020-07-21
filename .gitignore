@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+/accesories/
+/annotator/
+test_corpus.txt
+test_corpus.annotated.tsv
