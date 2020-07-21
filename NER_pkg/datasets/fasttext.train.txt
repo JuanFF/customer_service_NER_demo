@@ -2709,3 +2709,93 @@ __label__supply bravo @usuario por sétimo mes me cortáis la línea diciendo qu
 __label__blank ya eliminé mi tarjeta y cancelé mi compra porque me di cuenta después de haberla realizado .
 __label__delay después de casi 3 meses espero me devuelven una compra de cerca de 400 lucas más las cuotas que me siguen
 __label__fail ahora no puedo usar la app
+__label__blank me devolves el wifi 
+__label__blank  quédate con el cable si queres
+__label__delay estimados , esta compra debía llegar el 27 de junio y no llegó , me pueden indicar cuando llegará 
+__label__fail tal cual , me escribieron por dm pidiendome los datos y se borraron
+__label__supply hace dos dias que no tengo cable no wifi
+__label__blank  indícanos tus datos por dm para revisar lo ocurrido , un saludo 
+__label__fail por favor hice una compra de un celular y me enviaron el de otra persona y de menor v
+__label__supply buenas noches estoy sin cable y sin wifi , podrían ponerse en contacto conmigo 
+__label__blank  quiero saber que pasa 
+__label__blank hola , realice una compra que me indican está rechazada , sin embargo , mi banco me comenta que e
+__label__blank por favor , podrían hacer devolución de mi dinero 
+__label__delay tengo una compra cerrada pero no recibí todos los productos de ella
+__label__blank reclamé por la app y quedaron
+__label__blank me geustaria saber si existe un limite de compra de datos para mi linea , porque despues de 3gb no
+__label__fail y más duro todo , si tu teléfono o internet no funcionan y nadie responde en @usuario
+__label__delay hola no se me devolvió en dinero de una compra cancelada a mi tarjeta , el pago es 6086212183 del 15 de marzo , ayuda
+__label__blank a mi me pidieron los misnos datos y nunca respondieron
+__label__blank pa que los piden 
+__label__fail el wifi lleva 2 días sin funcionar ...
+__label__blank buenas tardes , gracias por escribirnos
+__label__blank si tu compra se entregaba en caba , te recomen
+__label__fail ayúdenme no puedo ver mi cuenta porque cambie de cell y no me deja abrirlo
+__label__fail qué tal buen día , me podrían ayudar a recuperar mi cuenta 
+__label__fail  tengo acceso a ella pero no me deja usarla .
+__label__fail me registre y ahora no me deja ingresar a mi cuenta queda cargando ...llamo y doy mi numero de cliente y dice q no existe
+__label__blank por favor ayuda , quiero hacer un pago a hipoteca banamex desde perfiles banamex
+__label__fail no me deja , me
+__label__fail quiero cambiar mi contraseña de wifi y desde la página no me deja .
+__label__fail pueden revisar por que al tratar de renovar equipo no me deja por una deuda de casi $100 .000 de un
+__label__fail duda contraté movistar hace unas semanas pero no me deja activar mi cuenta de movistar play se cae l
+__label__fail hola @usuario quiero ver la f1xespn por @usuario play , pero no me deja ver @usuario 👎
+__label__fail tengo una cuenta negocios , y no me deja registrarme en movistar play 
+__label__blank que necesitas que te envíe 
+__label__fail , y la página está caída y no me deja sacar registros de mis pagos anter
+__label__fail la plataforma no me deja reportarlo porque pasaron 2 meses de mi compra". y claro , estaba tratando de se
+__label__blank ya a mi me respondieron via twitter y aún así no me deja conforme la respuesta del
+__label__blank nada , no hay respuesta
+__label__fail y ahora que ya van dos meses no me deja pedir la opción de devolverlo
+__label__fail me llego el modem de movistar hogar , no anda y lo quiero devolver adonde llamo 
+__label__fail  el 611 no da opcion
+__label__fail no me deja necesito una solución
+__label__fail alguien sabe x que no anda @usuario desde ayer a la noche 
+__label__fail decime porque no anda el interneeeeet , ya te conteste todo el cuestionario y no tuve respuestas 
+__label__fail necesito cambiar equipo pero los canales que ustedes ofrecen no me dejan
+__label__blank ingresé a la p
+__label__fail buen día , en una de la cuenta suspendida tengo plata la cual no me dejan saca
+__label__blank cómo hago 
+__label__blank pueden hacer algo 
+__label__fail  @usuario hace desde anoche que no anda el wifi
+__label__blank y no es en mi casa no mas eh , asique no me
+__label__blank vivo escribiéndoles por dm , y no me dan bola , así que no me dejan otra opció que movistargarca
+__label__fail no anda desde las 12 de anoche el servicio de fibertel en toda la localidad de marcos juárez prov de
+__label__blank ha sido comprado en https ://t.co/5grrzakjdj
+__label__fail no me deja cancelar el pedido
+__label__fail no anda el servicio por zona marcos juárez/leones
+__label__blank cuando se restablecería el mismo 
+__label__fail se cierra y no me deja entrar , en medio de las operaciones se cierra , ya la desinstalé y traté de volver a instalar y nada
+__label__fail no puedo hacer el seguimiento de mi pedido , no me deja y antes si podía 
+__label__fail no me deja enviarte mensajes 
+__label__blank estoy cansado de llamar todos los días y que me prometan y no cumplan
+__label__fail hace meses que no anda bien ,
+__label__fail hace dos dias que la aplicación mi banco no me deja realizar transferencias me aparece un mensaje”
+__label__fail por lo menos tenes luz aca @usuario no me deja ver la calidad de señal como para compararla .
+__label__fail señores @usuario me pueden decir dónde puedo pagar mi tdc , he intentado en las sucursales y no me dejan , no tengo ning
+__label__fail yo tengo problemas con bizum pero soy de unicaja 
+__label__fail  no me deja hacer envíos
+__label__fail requiero realizar cambio de titular , exigen hacer en tienda , me es imposible por el confinamie
+__label__fail no me dejan hacer plannn que porque no temgo historial crediticio u.u
+__label__fail necesito realizar un pago y no me deja la aplicación .
+__label__fail que le pasa a la app se dañó la plataforma no me deja entrar d ser ayer está fuera de servicio 
+__label__blank ayer mismo es lo que comentaba
+__label__fail la app ya no me deja acceder a mi saldo porque a fuerza
+__label__fail he intentado mucho con la app y no me deja ingresar
+__label__blank y dadas las revisiones que se hace
+__label__fail buenas tardes tengo ya varios dias tratando de descargar o visualizar mi recibo por la app y no me deja .. me pueden apoyar 
+__label__fail  me enviaron un código de descuento y al colocarlo en la compra no me deja utilizarlo , se puedo hacer 
+__label__fail me suscribo al paquete series para ver outlander y hay tres capitulos de la temporada 1 que no me deja
+__label__fail desde ayer que no me deja transferirrr me sale un error en mipass
+__label__fail hace varios días que no anda el servicio
+__label__blank seguramente saben que estamos trabajando desde casa , cuand
+__label__fail qué pasa que no anda internet ni cable 
+__label__fail necesito ayuda con una compra , no me deja agregar el envio y tampoco me deja cancelar la misma
+__label__blank ayer mismo es lo que comentaba
+__label__fail la app ya no me deja acceder a mi saldo porque a fuerza me exi
+__label__blank buenas @usuario 
+__label__fail  una hora esperando que me deriven a alguien que me diga xq no anda arnet
+__label__fail no me deja modificar un numero de dni ni hay un link de ayuda o donde escribirles que hago 
+__label__fail  otra vez no anda bien internet
+__label__blank no quiero q me descuenten , quiero que el s
+__label__fail supermóvil está fallando arroja un mensaje de seguridad y no me deja acceder a mis metas para retirar

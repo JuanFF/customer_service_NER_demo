@@ -9703,5 +9703,1265 @@
                 "fail_ref"
             ]
         ]
+    },
+    {
+        "sequence": "pues ya verá que si débere cambiarme de compañía , porque sigo sin inter ni línea en el teléfono",
+        "ann_entities": [
+            [
+                67,
+                72,
+                "supply_ref"
+            ],
+            [
+                76,
+                96,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " se me viene cortando internet y el cable constantemente desde las 10 .30 .",
+        "ann_entities": [
+            [
+                22,
+                30,
+                "supply_ref"
+            ],
+            [
+                36,
+                41,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "si , y sigo sin tener línea telefónica , más de 24 horas sin el servicio , espero que haya una compensación",
+        "ann_entities": [
+            [
+                22,
+                38,
+                "supply_ref"
+            ],
+            [
+                64,
+                72,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola @usuario casi 3 lucas de cable para que los canales se vean así todo el tiempo",
+        "ann_entities": [
+            [
+                49,
+                56,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "se cortó una fase por corte de cable en donato alvarez 2212 rafael calzada transformador numero 25v7",
+        "ann_entities": [
+            [
+                13,
+                17,
+                "fail_ref"
+            ],
+            [
+                31,
+                36,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "y me dicen que hasta que no pague no me hacen la devolución yo acepto y luego para pag",
+        "ann_entities": [
+            [
+                49,
+                59,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "les e ablado muchaa veces y ninguna respuesta por lo de las fallas en el cable durante el mes anter",
+        "ann_entities": [
+            [
+                73,
+                78,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "le escribí porque tengo un problema con una compra y no contestan le mande todos los datos",
+        "ann_entities": [
+            [
+                44,
+                50,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "compre el 24 de junio un notebook que no llego en fecha motivo por el cual cancele la compra y ahor",
+        "ann_entities": [
+            [
+                25,
+                33,
+                "delay_ref"
+            ],
+            [
+                86,
+                92,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "realice una compra hace semanas , no validaron la compra pero me descontaron el dinero de la cuenta",
+        "ann_entities": [
+            [
+                50,
+                56,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "me quitaron la señal , no tengo minutos ni datos ni nada , llamo al *611 y nadie responde , quien me ayuda con mi problema ",
+        "ann_entities": [
+            [
+                15,
+                20,
+                "supply_ref"
+            ],
+            [
+                32,
+                39,
+                "supply_ref"
+            ],
+            [
+                43,
+                48,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hay falla de luz en mi colonia otra vez , no contestan el 071 le envié mis datos por mensaje privado y tampoco contestan",
+        "ann_entities": [
+            [
+                13,
+                16,
+                "fail_ref"
+            ],
+            [
+                58,
+                61,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "pésimo servicio tengo días mandando correos y llamando para que me apoyen con una compra y no contes",
+        "ann_entities": [
+            [
+                7,
+                15,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola @usuario ya que hace 24 horas me dejaste sin internet ni cable , podrías ampliar mi paquete de datos de @usuario que te parece ",
+        "ann_entities": [
+            [
+                50,
+                58,
+                "supply_ref"
+            ],
+            [
+                62,
+                67,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": ". no tenemos luz desde hace más de 3 horas , ya hice mi reporte en línea varias veces",
+        "ann_entities": [
+            [
+                13,
+                16,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "llevo seis meses con esta conexión basura y hasta ahora sigo pagándoles por u",
+        "ann_entities": [
+            [
+                26,
+                34,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "a vos el wifi mal , yo sin luzzzzzzz @usuario 😡😡😡😡😡😡😡😡",
+        "ann_entities": [
+            [
+                9,
+                13,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "llevamos toda la tarde sin conexión en fibra",
+        "ann_entities": [
+            [
+                27,
+                44,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "que pésimo servicio me tienen una semana sin wifi y sin telefonía fija",
+        "ann_entities": [
+            [
+                45,
+                49,
+                "supply_ref"
+            ],
+            [
+                56,
+                70,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no responden amiga , del 30 de junio que tengo una compra cancelada porque nunca lleg",
+        "ann_entities": [
+            [
+                51,
+                57,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " haciéndole competencia a @usuario en pésimo servicio ",
+        "ann_entities": [
+            [
+                45,
+                53,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no voy a poder activar mi línea de movistar tv ",
+        "ann_entities": [
+            [
+                26,
+                46,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "necesito respuesta y devolución del monto por el producto que hace 2 meses estoy esperando , pero us",
+        "ann_entities": [
+            [
+                21,
+                41,
+                "delay_ref"
+            ],
+            [
+                49,
+                57,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "aún no tengo datos",
+        "ann_entities": [
+            [
+                13,
+                18,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "buenos días , desde el 10 de julio me suspendieron el servicio de datos y internet , tengo las facturas al d",
+        "ann_entities": [
+            [
+                54,
+                71,
+                "supply_ref"
+            ],
+            [
+                74,
+                82,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "vergüenza deberia daros , llevo ya 1 mes esperado a que me arregleis el problema con el wifi y me parece",
+        "ann_entities": [
+            [
+                88,
+                92,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola compre un teléfono con plan y número nuevo deberia haber llegado el martes y aún no llega ...",
+        "ann_entities": [
+            [
+                15,
+                23,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "que ni teléfono ni internet",
+        "ann_entities": [
+            [
+                7,
+                15,
+                "supply_ref"
+            ],
+            [
+                19,
+                27,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "presta pésimo servicio de entrega de productos",
+        "ann_entities": [
+            [
+                14,
+                46,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "si , fue hace dos días la compra y tenía la promoción a 18 meses",
+        "ann_entities": [
+            [
+                26,
+                32,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola buenas tardes , quiero acceder a la factura de compra de mi equipo , pero me resulta imposible",
+        "ann_entities": [
+            [
+                41,
+                58,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola , me robaron el teléfono y perdí mi chip prepago",
+        "ann_entities": [
+            [
+                41,
+                45,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola hace varios días estoy intentando pagar la factura con tarjeta de crédito",
+        "ann_entities": [
+            [
+                39,
+                78,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "intento por mercado pago ,",
+        "ann_entities": [
+            [
+                12,
+                24,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "yo también no tengo internet fibra óptica , sector santa amalia 0161",
+        "ann_entities": [
+            [
+                20,
+                41,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " tengo una compra para ser entregada hoy y aún no me aparece",
+        "ann_entities": [
+            [
+                11,
+                17,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "que malo que es el servicio de cable e internet de @usuario por favor si están pensando en contratarlos no lo hagan",
+        "ann_entities": [
+            [
+                19,
+                36,
+                "fail_ref"
+            ],
+            [
+                39,
+                47,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola , quiero reportar un cargo desconocido de mi tarjeta de débito , marco a la línea y siempre cor",
+        "ann_entities": [
+            [
+                26,
+                43,
+                "fail_ref"
+            ],
+            [
+                50,
+                67,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "por eso le estoy diciendo al de izzi , para que quiere checar todos tus datos si es problema de toda la ciudad .",
+        "ann_entities": [
+            [
+                104,
+                110,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "ese cajero tiene desde que lo instalaron sin funcionar 2 años , que oso",
+        "ann_entities": [
+            [
+                4,
+                10,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "sin servicio wifi desde ayer a la noche sin solución 18383409 la semana pasada igual con deco nuevo",
+        "ann_entities": [
+            [
+                4,
+                17,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "harta de hablar con maquinas ",
+        "ann_entities": [
+            [
+                20,
+                28,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " llevo 20 minutos al teléfono con súper línea y no consigo hablar con un",
+        "ann_entities": [
+            [
+                59,
+                65,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "¿ qué carajos pasa con el servicio al cliente de @usuario sin datos móviles , dos días intentando con una línea c",
+        "ann_entities": [
+            [
+                62,
+                75,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "las transacciones de pago de tarjeta de crédito a través del app móvil no se pueden realizar , dice q",
+        "ann_entities": [
+            [
+                4,
+                47,
+                "fail_ref"
+            ],
+            [
+                61,
+                70,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "ya voy un día sin cable e internet nunca me pasó llamas y te atiende la maquinita y te dicen que es de la zona",
+        "ann_entities": [
+            [
+                18,
+                23,
+                "supply_ref"
+            ],
+            [
+                26,
+                34,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "buenas tardes , quedaron de venir hoy a hacer la instalación de la línea e internet y nada ¿ dónde me dan solución ",
+        "ann_entities": [
+            [
+                49,
+                60,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "el cajero de mi lugar de trabajo tiene lo que la cuarentena sin funcionar @usuario solo consumiendo luz ..",
+        "ann_entities": [
+            [
+                3,
+                9,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "por qué no me dejáis abrir una cuenta de pago básica con la tarjeta roja que me da españa al ser s",
+        "ann_entities": [
+            [
+                21,
+                52,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "necesito fecha d entrega d despacho pendiente , dice entregado en app el 06/07",
+        "ann_entities": [
+            [
+                27,
+                35,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "encima que paso una fortuna cortaron el cable e internet anda mal ",
+        "ann_entities": [
+            [
+                48,
+                56,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no responden mensajes al interno , no contestan la línea de atención al cliente , que pasa con ustedes , que pésimo servicio .",
+        "ann_entities": [
+            [
+                116,
+                124,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "acá esperando que me resuelvan el problema estoy sin wifi @usuario para cuandooo",
+        "ann_entities": [
+            [
+                53,
+                57,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola , estoy sin conexión a internet a través de fibra óptica",
+        "ann_entities": [
+            [
+                17,
+                61,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "estimados , esta compra debía llegar el 27 de junio y no llegó , me pueden indicar cuando llegará ",
+        "ann_entities": [
+            [
+                17,
+                23,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hace dos dias que no tengo cable no wifi",
+        "ann_entities": [
+            [
+                27,
+                32,
+                "supply_ref"
+            ],
+            [
+                36,
+                40,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "por favor hice una compra de un celular y me enviaron el de otra persona y de menor v",
+        "ann_entities": [
+            [
+                32,
+                39,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "buenas noches estoy sin cable y sin wifi , podrían ponerse en contacto conmigo ",
+        "ann_entities": [
+            [
+                24,
+                29,
+                "supply_ref"
+            ],
+            [
+                36,
+                40,
+                "supply_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "tengo una compra cerrada pero no recibí todos los productos de ella",
+        "ann_entities": [
+            [
+                50,
+                59,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "y más duro todo , si tu teléfono o internet no funcionan y nadie responde en @usuario",
+        "ann_entities": [
+            [
+                24,
+                32,
+                "fail_ref"
+            ],
+            [
+                35,
+                43,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola no se me devolvió en dinero de una compra cancelada a mi tarjeta , el pago es 6086212183 del 15 de marzo , ayuda",
+        "ann_entities": [
+            [
+                26,
+                32,
+                "delay_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "el wifi lleva 2 días sin funcionar ...",
+        "ann_entities": [
+            [
+                3,
+                7,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "ayúdenme no puedo ver mi cuenta porque cambie de cell y no me deja abrirlo",
+        "ann_entities": [
+            [
+                18,
+                31,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "qué tal buen día , me podrían ayudar a recuperar mi cuenta ",
+        "ann_entities": [
+            [
+                52,
+                58,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "me registre y ahora no me deja ingresar a mi cuenta queda cargando ...llamo y doy mi numero de cliente y dice q no existe",
+        "ann_entities": [
+            [
+                31,
+                51,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "quiero cambiar mi contraseña de wifi y desde la página no me deja .",
+        "ann_entities": [
+            [
+                7,
+                36,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "pueden revisar por que al tratar de renovar equipo no me deja por una deuda de casi $100 .000 de un",
+        "ann_entities": [
+            [
+                36,
+                50,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "duda contraté movistar hace unas semanas pero no me deja activar mi cuenta de movistar play se cae l",
+        "ann_entities": [
+            [
+                57,
+                91,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hola @usuario quiero ver la f1xespn por @usuario play , pero no me deja ver @usuario 👎",
+        "ann_entities": [
+            [
+                21,
+                35,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "tengo una cuenta negocios , y no me deja registrarme en movistar play ",
+        "ann_entities": [
+            [
+                41,
+                69,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": ", y la página está caída y no me deja sacar registros de mis pagos anter",
+        "ann_entities": [
+            [
+                7,
+                13,
+                "fail_ref"
+            ],
+            [
+                38,
+                66,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "la plataforma no me deja reportarlo porque pasaron 2 meses de mi compra\". y claro , estaba tratando de se",
+        "ann_entities": [
+            [
+                3,
+                13,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "y ahora que ya van dos meses no me deja pedir la opción de devolverlo",
+        "ann_entities": [
+            [
+                49,
+                69,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "me llego el modem de movistar hogar , no anda y lo quiero devolver adonde llamo ",
+        "ann_entities": [
+            [
+                12,
+                35,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " el 611 no da opcion",
+        "ann_entities": [
+            [
+                4,
+                7,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "decime porque no anda el interneeeeet , ya te conteste todo el cuestionario y no tuve respuestas ",
+        "ann_entities": [
+            [
+                25,
+                37,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "necesito cambiar equipo pero los canales que ustedes ofrecen no me dejan",
+        "ann_entities": [
+            [
+                9,
+                23,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "buen día , en una de la cuenta suspendida tengo plata la cual no me dejan saca",
+        "ann_entities": [
+            [
+                48,
+                53,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " @usuario hace desde anoche que no anda el wifi",
+        "ann_entities": [
+            [
+                43,
+                47,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no anda desde las 12 de anoche el servicio de fibertel en toda la localidad de marcos juárez prov de",
+        "ann_entities": [
+            [
+                34,
+                54,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no me deja cancelar el pedido",
+        "ann_entities": [
+            [
+                11,
+                29,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no anda el servicio por zona marcos juárez/leones",
+        "ann_entities": [
+            [
+                11,
+                19,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "se cierra y no me deja entrar , en medio de las operaciones se cierra , ya la desinstalé y traté de volver a instalar y nada",
+        "ann_entities": [
+            [
+                23,
+                29,
+                "fail_ref"
+            ],
+            [
+                48,
+                59,
+                "fail_ref"
+            ],
+            [
+                109,
+                117,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no puedo hacer el seguimiento de mi pedido , no me deja y antes si podía ",
+        "ann_entities": [
+            [
+                18,
+                42,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no me deja enviarte mensajes ",
+        "ann_entities": [
+            [
+                11,
+                28,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hace dos dias que la aplicación mi banco no me deja realizar transferencias me aparece un mensaje”",
+        "ann_entities": [
+            [
+                21,
+                40,
+                "fail_ref"
+            ],
+            [
+                61,
+                75,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "por lo menos tenes luz aca @usuario no me deja ver la calidad de señal como para compararla .",
+        "ann_entities": [
+            [
+                47,
+                70,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "señores @usuario me pueden decir dónde puedo pagar mi tdc , he intentado en las sucursales y no me dejan , no tengo ning",
+        "ann_entities": [
+            [
+                80,
+                90,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "yo tengo problemas con bizum pero soy de unicaja ",
+        "ann_entities": [
+            [
+                23,
+                28,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " no me deja hacer envíos",
+        "ann_entities": [
+            [
+                12,
+                24,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "requiero realizar cambio de titular , exigen hacer en tienda , me es imposible por el confinamie",
+        "ann_entities": [
+            [
+                18,
+                35,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no me dejan hacer plannn que porque no temgo historial crediticio u.u",
+        "ann_entities": [
+            [
+                12,
+                24,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "necesito realizar un pago y no me deja la aplicación .",
+        "ann_entities": [
+            [
+                9,
+                25,
+                "fail_ref"
+            ],
+            [
+                42,
+                52,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "que le pasa a la app se dañó la plataforma no me deja entrar d ser ayer está fuera de servicio ",
+        "ann_entities": [
+            [
+                17,
+                20,
+                "fail_ref"
+            ],
+            [
+                32,
+                42,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "la app ya no me deja acceder a mi saldo porque a fuerza",
+        "ann_entities": [
+            [
+                3,
+                6,
+                "fail_ref"
+            ],
+            [
+                21,
+                39,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "he intentado mucho con la app y no me deja ingresar",
+        "ann_entities": [
+            [
+                26,
+                29,
+                "fail_ref"
+            ],
+            [
+                43,
+                51,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "buenas tardes tengo ya varios dias tratando de descargar o visualizar mi recibo por la app y no me deja .. me pueden apoyar ",
+        "ann_entities": [
+            [
+                47,
+                56,
+                "fail_ref"
+            ],
+            [
+                59,
+                79,
+                "fail_ref"
+            ],
+            [
+                87,
+                90,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " me enviaron un código de descuento y al colocarlo en la compra no me deja utilizarlo , se puedo hacer ",
+        "ann_entities": [
+            [
+                16,
+                35,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "me suscribo al paquete series para ver outlander y hay tres capitulos de la temporada 1 que no me deja",
+        "ann_entities": [
+            [
+                60,
+                87,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "desde ayer que no me deja transferirrr me sale un error en mipass",
+        "ann_entities": [
+            [
+                26,
+                38,
+                "fail_ref"
+            ],
+            [
+                59,
+                65,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "hace varios días que no anda el servicio",
+        "ann_entities": [
+            [
+                32,
+                40,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "qué pasa que no anda internet ni cable ",
+        "ann_entities": [
+            [
+                21,
+                29,
+                "fail_ref"
+            ],
+            [
+                33,
+                38,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "necesito ayuda con una compra , no me deja agregar el envio y tampoco me deja cancelar la misma",
+        "ann_entities": [
+            [
+                23,
+                29,
+                "fail_ref"
+            ],
+            [
+                43,
+                59,
+                "fail_ref"
+            ],
+            [
+                78,
+                86,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "la app ya no me deja acceder a mi saldo porque a fuerza me exi",
+        "ann_entities": [
+            [
+                3,
+                6,
+                "fail_ref"
+            ],
+            [
+                34,
+                39,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " una hora esperando que me deriven a alguien que me diga xq no anda arnet",
+        "ann_entities": [
+            [
+                68,
+                73,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "no me deja modificar un numero de dni ni hay un link de ayuda o donde escribirles que hago ",
+        "ann_entities": [
+            [
+                11,
+                37,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": " otra vez no anda bien internet",
+        "ann_entities": [
+            [
+                23,
+                31,
+                "fail_ref"
+            ]
+        ]
+    },
+    {
+        "sequence": "supermóvil está fallando arroja un mensaje de seguridad y no me deja acceder a mis metas para retirar",
+        "ann_entities": [
+            [
+                0,
+                10,
+                "fail_ref"
+            ],
+            [
+                69,
+                88,
+                "fail_ref"
+            ]
+        ]
     }
 ]
