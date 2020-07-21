@@ -53,6 +53,9 @@ def train_ner (data, iterations):
 
 def get_ner_model (iterations):
 
-	data = get_formatted_ner_training()
-	nlp = train_ner(data, iterations)
-	nlp.to_disk('customer_service_ner')
+    data = get_formatted_ner_training()
+    nlp = train_ner(data, iterations)
+    nlp.to_disk('customer_service_ner')
+
+
+get_ner_model(30)
