@@ -9,7 +9,7 @@
   "token_vector_width":96,
   "hidden_width":64,
   "maxout_pieces":2,
-  "pretrained_vectors":null,
+  "pretrained_vectors":"es_model.vectors",
   "bilstm_depth":0,
   "self_attn_depth":0,
   "conv_depth":4,

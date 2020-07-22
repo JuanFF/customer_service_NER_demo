@@ -18,7 +18,8 @@ def get_formatted_ner_training ():
 
 def train_ner (data, iterations):
     TRAIN_DATA = data
-    nlp = spacy.blank('es')  # create blank Language class
+    #nlp = spacy.blank('es')  # create blank Language class
+    nlp = spacy.load('customer_service_vectors')
     # create the built-in pipeline components and add them to the pipeline
     # nlp.create_pipe works for built-ins that are registered with spaCy
     if 'ner' not in nlp.pipe_names:

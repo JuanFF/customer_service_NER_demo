@@ -10,10 +10,10 @@
   "license":"",
   "spacy_git_version":"bf778f59c",
   "vectors":{
-    "width":0,
-    "vectors":0,
-    "keys":0,
-    "name":"spacy_pretrained_vectors"
+    "width":100,
+    "vectors":28877,
+    "keys":28877,
+    "name":"es_model.vectors"
   },
   "pipeline":[
     "ner"
