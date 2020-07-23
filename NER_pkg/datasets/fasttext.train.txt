@@ -2799,3 +2799,5 @@ __label__fail no me deja modificar un numero de dni ni hay un link de ayuda o do
 __label__fail  otra vez no anda bien internet
 __label__blank no quiero q me descuenten , quiero que el s
 __label__fail supermóvil está fallando arroja un mensaje de seguridad y no me deja acceder a mis metas para retirar
+__label__blank /users/juan/desarrollo/customer_service_ner_demo/ner_pkg/datasets/corpus .tsv
+__label__blank ya se lo que me vas a decir por dm sara , que no anda porq están haciendo mantenimiento en la zona , c
